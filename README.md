@@ -1,4 +1,4 @@
-# 🚀 Desafio Técnico 3E Soluçoes 2025 – Cadastro de Colaboradores
+# Desafio Técnico – Cadastro de Colaboradores
 
 Este projeto é uma aplicação web feita com **Laravel 12** para gerenciar os colaboradores que participaram de um evento corporativo da 3E Soluções. Ele permite cadastrar, listar, editar e excluir participantes, com autenticação protegendo todas as rotas.
 
